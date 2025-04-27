@@ -1,0 +1,49 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pdb
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Log files
+*.log
+
+# Environment files
+.env
+
+# Database
+*.sqlite
+*.sqlite3
+db.sqlite3
+
+# Frontend Build files (if applicable)
+/frontend/dist/
+/frontend/build/
+/frontend/.cache/
+
+# Electron
+*.asar
+
+# IDE specific files
+.idea/
+
+# System files
+desktop.ini
+
+# Other temporary files
+*.swp
+*.swo
